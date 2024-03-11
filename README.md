@@ -41,3 +41,7 @@ Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines.
 ## License
 
 This project is licensed under the MIT License.
+
+
+## API DOCUMENTATION
+https://docs.google.com/document/d/1TEQUXJNdbvKUhT3k_vU2sEZXK7gd_mZGW1geQlsE_MU/edit?usp=sharing
